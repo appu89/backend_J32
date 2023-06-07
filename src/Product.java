@@ -1,5 +1,5 @@
 public class Product {
-    double price = 800.856;
+    double price = 800.858;
     public double getprice(){
         return price;
     }
