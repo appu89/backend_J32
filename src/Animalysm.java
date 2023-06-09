@@ -5,7 +5,7 @@ public class Animalysm {
 }
 class dog extends Animalysm {
         void Features() {
-            System.out.println("Dog has a tail");
+             System.out.println("Dog has a tail");
 
 
         }

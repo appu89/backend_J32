@@ -1,7 +1,7 @@
 public class Product {
     double price = 800.858;
     public double getprice(){
-        return price;
+         return price;
     }
     public double setprice(double price) {
         this.price = price;

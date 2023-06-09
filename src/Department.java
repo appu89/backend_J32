@@ -11,7 +11,7 @@ abstract class Department {
      public static void main(String[] args) {
           store d1= new store() ;
           d1.getDepartmentsize();
-             }
+    }
 
 
      }
