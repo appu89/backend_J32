@@ -13,6 +13,11 @@ public class VowelCount {
         System.out.println("Number of vowels in the string: " + vowelCount);
 
         scanner.close();
+
+
+      //  GenericPrinter person=(ptr) -> System.out.println(ptr.toString);
+      //  personLambda.print(Person);
+
     }
 
     public static int countVowels(String str) {
@@ -26,7 +31,7 @@ public class VowelCount {
                 count++;
             }
         }
-
-        return count;
+        System.out.println(" the string contains");
+        return count ;
     }
 }

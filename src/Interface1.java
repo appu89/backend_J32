@@ -18,7 +18,6 @@ class InterClass implements Interface1, Interface2 {
         System.out.println("Implementing method2 from Interface2");
     }
 }
-
 class InterfacesMain {
     public static void main(String[] args) {
         InterClass obj = new InterClass();
@@ -26,3 +25,4 @@ class InterfacesMain {
         obj.method2();
     }
 }
+
